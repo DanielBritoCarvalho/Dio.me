@@ -1,3 +1,1 @@
-# BootCamp OrangeTech+
-
-- Repositório criado para organizar cursos/Projetos da plataforma DIO.ME
+# Repositório criado para organizar cursos/Projetos da plataforma DIO.ME
